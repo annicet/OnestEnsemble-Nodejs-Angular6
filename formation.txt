@@ -1,0 +1,27 @@
+création des api avec NodeJs:
+    file:///C:/Users/drephyx.yango/Documents/NodeJs%20Formation/redecouvrir-javascript-avec-nodejs.pdf
+    https://devotics.fr/votre-premiere-app-nodejs-express/
+PostGre Refresh:
+    https://www.postgresql.org/message-id/CA%2BOCxoynK1Hacn2AbUWB6kAsg6BXTFwcWrnYq6B7mtihUyQTVw%40mail.gmail.com;
+
+design pattern singleton application:
+    https://medium.com/@maheshkumawat_83392/node-js-design-patterns-singleton-pattern-series-1-1e0ab71e3edfse4
+Repository pattern and unit of work pattern
+    https://blogs.msdn.microsoft.com/adonet/2009/06/16/using-repository-and-unit-of-work-patterns-with-entity-framework-4-0/
+Différence entre un DTO et un POCO (ADO.net)
+    https://skalp.developpez.com/traductions/quelle-est-difference-entre-dto-et-poco/
+Comment utiliser Sequelize
+    http://docs.sequelizejs.com/manual/tutorial/models-usage.html
+Comment utiliser map pour les arrays
+    https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Array/map
+Unit Of Work :
+    https://docs.microsoft.com/fr-fr/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
+Comparaison differents orm
+    https://medium.freecodecamp.org/a-comparison-of-the-top-orms-for-2018-19c4feeaa5f
+Comment Construire une api sur NodeJs
+    https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+
+
+
+
+    
